@@ -30,3 +30,9 @@ Available generators
 ....<snip>
   
 This generates your app with certain things configured for you to use Sequel. 
+
+Notes
+----------
+
+I haven't built in thor support for the stack just yet. I think there are going to be some changes to 
+the tasks and will wait until that settles before bringing that change in here. 
