@@ -1,7 +1,7 @@
 ---
 # This is a sample database file for the Sequel ORM
 development: &defaults
-  adapter:  sqlite3
+  adapter:  sqlite
   database: sample_development.db
  
 test:
