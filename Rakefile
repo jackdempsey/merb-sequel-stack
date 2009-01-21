@@ -15,7 +15,8 @@ SUMMARY = "(merb-core + merb-more + Sequel) == Merb Sequel stack"
 gems = [
   ["merb-core", "~> #{GEM_VERSION}"],
   ["merb-more", "~> #{GEM_VERSION}"],
-  ["sequel", "~> 2.7.0"]
+  ["sequel", "~> 2.7.0"],
+  ["merb_sequel", "~> 1.0"]
 ]
 merb_spec = Gem::Specification.new do |s|
   s.rubyforge_project = 'merb-ar-stack'
